@@ -1,2 +1,6 @@
-# Online-E-booking-System
-It is my Final Year Project in This Project A modern, user-friendly online booking platform for services (e.g., hotels, appointments, events). Includes real-time availability checks, payment integration, and admin dashboards. In this project i am using So many language like for Frontend HTML,CSS, Javascript And Bootstrap backend Is PHP and SQL
+# Inkwell
+![inkwell1](https://github.com/biplavpoudel/Inkwell/assets/60846036/b0d47527-07fc-4185-9348-0a9c65c42b7a)
+
+A simple, barebone of an e-commerce project using Bootstrap, PHP, MariaDB, SQL and HTML5.
+
+As simple as it can get.
